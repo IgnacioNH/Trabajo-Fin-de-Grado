@@ -9,6 +9,6 @@ Repositorio que contiene el código desarrollado para el Trabajo Fin de Grado.
 
 ## Autor
 
-Ignacio Hernández
+Ignacio Nvumba
 
 Universidad Carlos III de Madrid
